@@ -115,15 +115,15 @@ külön logikában történik.
 
 ### Profil és napi célok
 
-![Profil](profile.png)
+![Profil](screenshots/profile.png)
 
 ### Napi étrend
 
-![Étrend](nutrition_goals.png)
+![Étrend](screenshots/nutrition_goals.png)
 
 ### Napi nézet
 
-![Napi nézet](daily_meals.png)
+![Napi nézet](screenshots/daily_meals.png)
 
 > A projekt fejlesztése közben a felhasználói felület folyamatosan
 > változik, ezért a képernyőképek az aktuális fejlesztési állapotot
